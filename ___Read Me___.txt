@@ -1,0 +1,22 @@
+UTS INTERNET PUBLISHER 2_7F_Luqman Tri Bimantoro_18083000148
+
+-Database berada pada folder sql_database
+-Setelah itu bisa langsung di import ke phpMyAdmin
+
+~~~~~~~~~~~~~
+
+Login Admin :
+
+USERNAME : admin@gmail.com
+PW : admin
+
+~~~~~~~~~~~~~
+
+Login User : 
+
+USERNAME : luqman@gmail.com
+PW : luqman
+
+~~~~~~~~~~~~~
+
+Atau bisa coba buat baru
